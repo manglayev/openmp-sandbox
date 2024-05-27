@@ -1,0 +1,2 @@
+gcc -fopenmp program-05.c
+gcc -fopenmp -o p5 program-05.c
